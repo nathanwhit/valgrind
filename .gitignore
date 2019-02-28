@@ -18,6 +18,7 @@
 /configure
 /default.supp
 /depcomp
+/exp-dhat
 /glibc-2.X.supp
 /install-sh
 /lib
